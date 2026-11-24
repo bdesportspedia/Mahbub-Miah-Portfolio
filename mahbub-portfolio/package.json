@@ -1,0 +1,18 @@
+{
+  "name": "mahbub-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "tus-js-client": "^4.2.3"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
